@@ -9,7 +9,7 @@ venv/
 env/
 mi_entorno/
 *.env
-
+descompiler/
 
 build/
 *.egg-info/
