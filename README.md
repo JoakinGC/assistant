@@ -1,5 +1,5 @@
 
-# Chatbot with Voice Recognition and Automated Tasks
+# Assistant with Voice Recognition and Automated Tasks
 
 This is a chatbot project that uses voice recognition to perform tasks such as opening programs, managing tasks, taking notes, searching on Google, and checking the weather, among other features. The application also allows the use of AI models, like OpenAI, to answer complex questions.
 
